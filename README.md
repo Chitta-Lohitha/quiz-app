@@ -32,6 +32,9 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 
 📧 Contact
 Created by Chitta Lohitha
-Email: chittalohitha19@gmail.com
+GitHub:https://github.com/Chitta-Lohitha
+
+⭐ If you like this project, please give it a star!
+Enjoy Coading🎉🥳✨
 
 
