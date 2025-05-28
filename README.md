@@ -13,6 +13,7 @@ Welcome to the **Quiz App** — a sleek, interactive web application built with 
 ## 📂 Project Structure
 
 quiz-app/
+
 ├── index.html # Main HTML file
 
 ├── style.css # Styling
