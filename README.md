@@ -26,15 +26,19 @@ quiz-app/
 1. Clone the repository:
 
    ```bash
+   
    git clone https://github.com/Chitta-Lohitha/quiz-app.git
 
 2.Open index.html in your favorite browser.
 
 🤝 Contributing
+
 Contributions are welcome! Feel free to submit issues or pull requests to enhance this project.
 
 📧 Contact
+
 Created by Chitta Lohitha
+
 GitHub:https://github.com/Chitta-Lohitha
 
 Enjoy Coading🎉🥳✨
